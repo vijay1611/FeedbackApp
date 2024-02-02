@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "528480723913",
+    "project_id": "feedbackapp-82272",
+    "storage_bucket": "feedbackapp-82272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528480723913:android:62f04d7f8d52312d6c7e18",
+        "android_client_info": {
+          "package_name": "com.vijay.feedbackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBC_wSDtdvAwcK4drplr_1a29cp_xY7Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
